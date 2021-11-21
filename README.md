@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Xtz0
+- 👀 I’m interested in programming, crypto, video games, IT, Network infrastructure and much more.
+- 🌱 I’m currently learning C# and Rust.
+- 📫 How to reach me, Discord: Xtz#4770, more comming soon.
